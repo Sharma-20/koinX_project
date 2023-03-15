@@ -15,7 +15,7 @@ Output would be the list of transactions for this address
 
 Fetch the price of Ethereum every 10 minutes
 
-API for the same:-https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=inr
+API used :-https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=inr
 
 # Technology Stack
 
