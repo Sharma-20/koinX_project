@@ -1,4 +1,4 @@
-# KONIX_Application
+# KOINX_Application
 Develop a Server Side Application to fetch Crypto Transactions of a user.Backend part developed using nodejs and mongoDB.
 
 # Supported Operations 
